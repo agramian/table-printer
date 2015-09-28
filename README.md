@@ -10,7 +10,7 @@ The code is mostly copied from [this](http://stackoverflow.com/a/5087336) Stack 
 - ability to receive a separate data set that will be printed as a totals row at the bottom of the table by passing optional argument
 
 ### Installation
-`pip install git+git://github.com/agramian/table-printer.git`
+`pip install table_printer`
 
 ### Usage
 ```
