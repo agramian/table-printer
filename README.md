@@ -3,11 +3,11 @@
 ### Description
 Print a list of python dicts as an organized table.
 
-The code is mostly copied from [this](http://stackoverflow.com/a/5087336) Stack Overflow comment the following additions:
+The code is mostly copied from [this](http://stackoverflow.com/a/5087336) Stack Overflow comment with the following additions:
 - customization of the top and bottom line characters
 - customization of the alignment ('left' or 'right')
 - automatic truncation of text that is longer than the column width with ellipses ('...')
-- ability to receive a separate data set that will be printed as a totals row at the bottom of the table.
+- ability to receive a separate data set that will be printed as a totals row at the bottom of the table by passing optional argument
 
 ### Installation
 `pip install git+git://github.com/agramian/table-printer.git`
