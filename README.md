@@ -1,4 +1,4 @@
-# table-printer
+# Table Printer
 
 ### Description
 Print a list of python dicts as an organized table.
